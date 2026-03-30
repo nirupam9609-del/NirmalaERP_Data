@@ -1,0 +1,289 @@
+{
+    "parties": {
+        "JAFAR ALI": {
+            "category": "FARMER",
+            "whatsapp": "9609222302",
+            "account_no": "33265093239",
+            "ifsc": "SBIN0014065",
+            "created_on": "2026-03-30 19:02:23.922643"
+        },
+        "AAAAA": {
+            "category": "AGENT",
+            "whatsapp": "aaaaa",
+            "account_no": "aaaa",
+            "ifsc": "aaaa",
+            "created_on": "2026-03-30 22:10:55.805118"
+        }
+    },
+    "transactions": [
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:09 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:08 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "419B/44.7K",
+            "Rate": "5200.0",
+            "Amount": 2182674.0,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 10:07 PM",
+            "Type": "PAID",
+            "Party": "JAFAR ALI",
+            "Item": "FINANCIAL VOUCHER",
+            "Bags": "-",
+            "Rate": "-",
+            "Amount": 65550.0,
+            "Mode": "BANK TRANSFER",
+            "Remarks": "REMARKS / UTR NO"
+        },
+        {
+            "Date": "30-03-26 07:32 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "83B/50.0K",
+            "Rate": "5200.0",
+            "Amount": 435933.33,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "[EDITED] SysCalc @ 5200.0"
+        },
+        {
+            "Date": "30-03-26 07:04 PM",
+            "Type": "PAID",
+            "Party": "JAFAR ALI",
+            "Item": "FINANCIAL VOUCHER",
+            "Bags": "-",
+            "Rate": "-",
+            "Amount": 52000.0,
+            "Mode": "UPI",
+            "Remarks": "REMARKS / UTR NO"
+        },
+        {
+            "Date": "30-03-26 07:02 PM",
+            "Type": "PURCHASE",
+            "Party": "JAFAR ALI",
+            "Item": "GOBINDAVOG",
+            "Bags": "99B/40.0K",
+            "Rate": "5200",
+            "Amount": 518266.67,
+            "Mode": "SYSTEM_TRADE",
+            "Remarks": "SysCalc @ 5200"
+        }
+    ],
+    "rates": {
+        "PURCHASE": {
+            "SWARNA": 0.0,
+            "MINIKIT": 0.0,
+            "GOBINDAVOG": 5200.0
+        },
+        "SALE": {
+            "SWARNA": 0.0,
+            "MINIKIT": 0.0,
+            "GOBINDAVOG": 5300.0
+        }
+    },
+    "system_meta": {
+        "last_access": "2026-03-30 22:11:02.468945",
+        "version": "45.0"
+    }
+}
